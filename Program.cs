@@ -10,7 +10,7 @@ namespace GitHello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, User!");
+            Console.WriteLine("Hello, User! Today is 05.10.17");
             Console.ReadKey();
         }
     }
